@@ -3,7 +3,7 @@
 React challenge para MTC corp.
 
 Consiste en una ToDo app donde seran agregados items pendientes o por hacer. Esta app fue creada con ReacJS.
-Puedes descargar o clonar este repositorio. Una vez cargado necesitas iniciar el servidor (realizado con NodeJS, Express y GraphQL) desde la ruta de la carpeta principal (to-do-challenge), utilizando el comando: 
+Puedes descargar o clonar este repositorio. Una vez cargado necesitas iniciar el servidor (realizado con NodeJS, Express y GraphQL) desde la ruta de la carpeta principal, utilizando el comando: 
 
 node server.js
 
